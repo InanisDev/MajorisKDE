@@ -1,0 +1,17 @@
+[DesktopEntry]
+Name=Majoris
+Comment=None lol
+
+X-KDE-PluginInfor-Author= Nolzark-Dev
+X-KDE-PluginInfor-Email=hunterbalderson@gmail.Com
+X-KDE-PluginInfor-Name=Manjoris
+X-KDE-PluginInfor-Version=0.1
+X-KDE-PluginInfor-Liscense=cc0
+
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=0.25
+intensity=1.2
+saturation=5.5
